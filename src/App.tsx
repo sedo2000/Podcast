@@ -38,7 +38,7 @@ export default function App() {
                 الشخص اللي ما يكدر يتخذ قرار، هذا إنسان جاي يظلم نفسه قبل ما يظلم اللي حواليه. عايش بمبدأ (يا صابت يا خابت)، وبالمجمل هي دايمًا (خايبة) لأن اللي ما يختار طريقه، الناس هي اللي راح تختارله الطريق اللي يريحها هي، مو اللي يريحه هو.
               </p>
               <div className="bg-stone-50 p-6 rounded-lg border-r-4 border-amber-500">
-                <p className="font-bold text-stone-900 mb-4">يا بطل.. اسمعها مني عراقي صريح:</p>
+                <p className="font-bold text-stone-900 mb-4">يا بطل.. اسمعها مني  بصراحة:</p>
                 <ul className="space-y-4">
                   <li className="flex gap-2">
                     <AlertTriangle className="text-amber-600 shrink-0 mt-1" />
